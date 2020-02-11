@@ -1,0 +1,17 @@
+td{
+    width:200px;
+    height:200px;
+    text-align: center;
+
+}
+
+.smallCell{
+    height: auto;
+    padding: 10px;
+    margin: 5px;
+}
+
+.aside{
+    display: inline-block;
+    float: left;
+}
